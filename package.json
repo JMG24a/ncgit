@@ -1,0 +1,31 @@
+{
+  "name": "ncgit",
+  "version": "1.0.0",
+  "description": "node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMG24a/ncgit.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jose Morales <jmg24a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMG24a/ncgit/issues"
+  },
+  "homepage": "https://github.com/JMG24a/ncgit#readme",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.2",
+    "@eslint/js": "^9.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "globals": "^15.0.0"
+  }
+}
