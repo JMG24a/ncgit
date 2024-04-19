@@ -16,6 +16,7 @@
   ],
   "author": "Jose Morales <jmg24a@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/JMG24a/ncgit/issues"
   },
@@ -27,5 +28,8 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.1",
     "globals": "^15.0.0"
+  },
+  "dependencies": {
+    "picocolors": "^1.0.0"
   }
 }

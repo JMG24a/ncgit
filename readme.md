@@ -24,6 +24,14 @@ El comando `git commit` se utiliza para confirmar los cambios en el repositorio 
 
 El comando `git log` se utiliza para mostrar el historial de commits en el repositorio, incluyendo información sobre el autor, la fecha y el mensaje del commit. En este clon, al ejecutar `ncgit log`, se muestra una lista simulada de commits con información similar a la de Git.
 
+### 6. `git checkout`
+
+El comando `git checkout` se utiliza para cambiar entre ramas o restaurar archivos desde el repositorio. Aunque aún no se ha implementado en este clon, se planea agregarlo en futuras actualizaciones para permitir la navegación entre ramas y la restauración de archivos.
+
+### 7. `git branch`
+
+El comando `git branch` se utiliza para listar, crear o eliminar ramas en el repositorio. Aunque aún no se ha implementado en este clon, se planea agregarlo en futuras actualizaciones para permitir la gestión de ramas en el repositorio.
+
 ## Uso
 
 Para utilizar este clon de Git desarrollado en Node.js, simplemente clona o descarga el repositorio y ejecuta los comandos mencionados anteriormente en tu terminal. Aunque este clon no proporciona todas las funcionalidades y características de Git, es útil para comprender los conceptos básicos de control de versiones y cómo funcionan los comandos principales de Git.
